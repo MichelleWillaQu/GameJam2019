@@ -1,0 +1,7 @@
+Developers:
+Akemi Miyagusuku
+Michelle Qu
+Tiger Sullivan
+Harsh Patel
+
+Please Play at 2048x1536 resolution Windowed
