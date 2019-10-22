@@ -7,4 +7,4 @@ Legend has it, on the night of the first full moon of the year, moon rabbits com
 
 Jump through various platforms while avoiding environmental hazards to get to the moon once again!
 
-![Screenshot](/Code/TitleScreen.png)
+![Screenshot](../master/Code/TitleScreen.png)
