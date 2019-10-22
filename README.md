@@ -6,3 +6,5 @@
 Legend has it, on the night of the first full moon of the year, moon rabbits come down to earth to feast. Leaving mochi for them brings good luck your way.  If the moon rabbits don't make it back to the moon before the night is over, they'll be stuck on earth for another year. Apollo the moon rabbit came down to gather some of the tasty treats but lost track of time. Help Apollo get back home!
 
 Jump through various platforms while avoiding environmental hazards to get to the moon once again!
+
+![Screenshot](/Code/TitleScreen.png)
